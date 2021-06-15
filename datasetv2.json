@@ -1,16 +1,192 @@
 [
     {
-        "nombre": "jose",
-        "edad": 32,
-        "nota": 15.2,
-        "promedio": 13.6,
-        "amigo": "felipe"
+        "siniestros": 0,
+        "ant_comp": 7,
+        "ant_perm": 9,
+        "edad": 30,
+        "ant_veh": 7
     },
     {
-        "nombre": "paul",
-        "edad": 11,
-        "nota": 16.2,
-        "promedio": 18,
-        "amigo": "jose"
+        "siniestros": 0,
+        "ant_comp": 1,
+        "ant_perm": 0,
+        "edad": 18,
+        "ant_veh": 2
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 1,
+        "ant_perm": 35,
+        "edad": 59,
+        "ant_veh": 1
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 3,
+        "ant_perm": 43,
+        "edad": 61,
+        "ant_veh": 2
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 4,
+        "ant_perm": 0,
+        "edad": 18,
+        "ant_veh": 1
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 1,
+        "ant_perm": 32,
+        "edad": 60,
+        "ant_veh": 1
+    },
+    {
+        "siniestros": 1,
+        "ant_comp": 0,
+        "ant_perm": 21,
+        "edad": 39,
+        "ant_veh": 5
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 0,
+        "ant_perm": 27,
+        "edad": 50,
+        "ant_veh": 1
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 4,
+        "ant_perm": 34,
+        "edad": 52,
+        "ant_veh": 1
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 4,
+        "ant_perm": 12,
+        "edad": 30,
+        "ant_veh": 0
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 0,
+        "ant_perm": 38,
+        "edad": 60,
+        "ant_veh": 0
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 3,
+        "ant_perm": 23,
+        "edad": 41,
+        "ant_veh": 7
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 0,
+        "ant_perm": 33,
+        "edad": 51,
+        "ant_veh": 9
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 16,
+        "ant_perm": 0,
+        "edad": 18,
+        "ant_veh": 9
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 10,
+        "ant_perm":28,
+        "edad": 50,
+        "ant_veh": 1
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 8,
+        "ant_perm": 12,
+        "edad": 30,
+        "ant_veh": 1
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 6,
+        "ant_perm": 23,
+        "edad": 41,
+        "ant_veh": 5
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 5,
+        "ant_perm": 29,
+        "edad": 47,
+        "ant_veh": 5
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 1,
+        "ant_perm": 24,
+        "edad": 42,
+        "ant_veh": 1
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 0,
+        "ant_perm": 12,
+        "edad": 40,
+        "ant_veh": 0
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 9,
+        "ant_perm": 18,
+        "edad": 60,
+        "ant_veh": 1
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 7,
+        "ant_perm": 17,
+        "edad": 50,
+        "ant_veh": 4
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 6,
+        "ant_perm": 23,
+        "edad": 41,
+        "ant_veh": 1
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 1,
+        "ant_perm": 11,
+        "edad": 29,
+        "ant_veh": 8
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 14,
+        "ant_perm": 12,
+        "edad": 30,
+        "ant_veh": 4
+    },
+    {
+        "siniestros": 0,
+        "ant_comp": 11,
+        "ant_perm": 46,
+        "edad": 64,
+        "ant_veh": 2
+    }
+    ,
+    {
+        "siniestros": 0,
+        "ant_comp": 3,
+        "ant_perm": 16,
+        "edad": 50,
+        "ant_veh": 3
     }
 ]
